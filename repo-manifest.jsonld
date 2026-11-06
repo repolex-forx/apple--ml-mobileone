@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/apple/ml-mobileone/commit/3cebdf04a1524c447ab5e44a5235524f8da46f8d",
       "git:hexsha": "3cebdf04a1524c447ab5e44a5235524f8da46f8d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
