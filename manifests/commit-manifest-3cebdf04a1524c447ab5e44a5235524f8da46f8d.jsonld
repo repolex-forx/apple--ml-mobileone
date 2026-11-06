@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/apple/ml-mobileone/commit/3cebdf04a1524c447ab5e44a5235524f8da46f8d",
+  "@type": "git:Commit",
+  "git:hexsha": "3cebdf04a1524c447ab5e44a5235524f8da46f8d",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/apple/ml-mobileone"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/3cebdf04a1524c447ab5e44a5235524f8da46f8d.nq.gz",
+      "repolex:graphFileSize": 5607
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 876
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 414
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-06T07:52:02.852728+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
